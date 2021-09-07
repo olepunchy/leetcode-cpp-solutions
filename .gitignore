@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+main
+
+# CCLS
+*/.ccls-cache/*
+.ccls-cache/*
