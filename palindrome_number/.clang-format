@@ -1,0 +1,17 @@
+﻿---
+BasedOnStyle: Google
+AlignAfterOpenBracket: Align
+CompactNamespaces: 'false'
+IndentCaseLabels: 'true'
+IndentWidth: '4'
+Language: Cpp
+NamespaceIndentation: All
+SortIncludes: 'true'
+SortUsingDeclarations: 'true'
+SpaceInEmptyParentheses: 'false'
+SpacesInParentheses: 'false'
+SpacesInSquareBrackets: 'true'
+TabWidth: '4'
+UseTab: ForIndentation
+
+...
