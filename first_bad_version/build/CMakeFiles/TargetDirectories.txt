@@ -1,3 +1,0 @@
-/home/jeremy/projects/leetcode-cpp-solutions/first_bad_version/build/CMakeFiles/rebuild_cache.dir
-/home/jeremy/projects/leetcode-cpp-solutions/first_bad_version/build/CMakeFiles/edit_cache.dir
-/home/jeremy/projects/leetcode-cpp-solutions/first_bad_version/build/CMakeFiles/first_bad_version.dir
