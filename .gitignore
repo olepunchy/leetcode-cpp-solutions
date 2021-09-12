@@ -35,3 +35,5 @@ main
 # CCLS
 */.ccls-cache/*
 .ccls-cache/*
+*/build/*
+build/*
