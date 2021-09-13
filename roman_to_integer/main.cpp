@@ -52,10 +52,7 @@ public:
 
     int result = 0;
 
-    // Comparing current and next character each pass in the loop.
-    // Each pass should increment by 2 and each pass should
-    // handle adding the current and next value
-    for (int index = 0; index < input.size(); index += 2) {
+    for (int index = 0; index < input.size(); index++) {
       char thisChar = input[index];
 
       int currentValue = romanNumerals.find(thisChar)->second;
@@ -68,8 +65,10 @@ public:
 
       if (currentValue < nextValue) {
         result += (nextValue - currentValue);
+        // Skip ahead since we used the next value
+        index++;
       } else {
-        result += (currentValue + nextValue);
+        result += currentValue;
       }
     }
 
