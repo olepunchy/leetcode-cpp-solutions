@@ -1,3 +1,0 @@
-/Users/jeremy/projects/leetcode/cpp/two_sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/jeremy/projects/leetcode/cpp/two_sum/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/jeremy/projects/leetcode/cpp/two_sum/cmake-build-debug/CMakeFiles/two_sum.dir
